@@ -122,6 +122,14 @@ Pair your phone with the launcher by scanning a QR code shown on the TV setup wi
 
 Setup screenshots: [`screenshots-setup/`](./screenshots-setup).
 
+## Documentation
+
+- 📖 [FAQ](docs/FAQ.md) — most-asked questions
+- 🛠️ [Sideload guide](docs/Sideload-Guide.md) — install without Play Store
+- 📱 [Pairing with GTD Setup](docs/Pairing-Guide.md) — phone-to-TV setup
+- 🐛 [Troubleshooting](docs/Troubleshooting.md) — common issues
+- 💳 [Premium & Billing](docs/Premium.md) — what €7 unlocks
+
 ---
 
 ## Install
