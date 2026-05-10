@@ -87,7 +87,7 @@ For easier setup (Emby login, API keys, IP addresses) install **GTD Setup** on y
 ## Support
 
 - **Bugs / feature requests** → [open an issue](https://github.com/GokuTD/gtd-launcher/issues/new/choose)
-- **Email** → goku89edge@gmail.com
+- **Email** → gokukinto@gmail.com
 - **Privacy Policy** → https://gokutd.github.io/gtd-policy/
 
 This repository hosts the public-facing README, screenshots, releases and issue tracker. The application source is closed; the repo contains no code.
