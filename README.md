@@ -40,20 +40,21 @@ One-time **€7** unlock that opens up:
 
 No subscription. No recurring charges. Reinstall and Premium restores from your Google account automatically.
 
-## Compared to alternatives
+## Free vs Premium at a glance
 
-|                          | GTD Launcher (Free) | GTD Launcher (Premium €7) | Projectivy (Free) | Projectivy (Premium $7.49) |
-|---|---|---|---|---|
-| Themes                   | 4 presets | 12 presets | unlimited | unlimited |
-| Custom wallpaper         | static images | + slideshow + adjustments | static | + GIF/video/RTSP |
-| Per-app icons            | — | ✅ | — | ✅ |
-| Multi-button remap       | 1 free | unlimited | — | — |
-| Cloud backup             | local export only | + Google Drive sync | local export only | local export only |
-| **Emby integration**     | ✅ via plugin | ✅ via plugin | — | — |
-| **Football overlays**    | ✅ via plugin | ✅ via plugin | — | — |
-| **Oppo player remote**   | ✅ via plugin | ✅ via plugin | — | — |
-| Source available         | proprietary | proprietary | proprietary | proprietary |
-| Ads / Telemetry          | ❌ none | ❌ none | ❌ none | ❌ none |
+|                          | Free | Premium (€7 one-time) |
+|---|---|---|
+| Themes                   | 4 presets | 12 presets |
+| Custom wallpaper         | static images | + slideshow + adjustments |
+| Card glow effects        | dynamic / colour | + RGB / Neon |
+| Per-app icons            | — | ✅ |
+| Icon packs               | — | ✅ |
+| Multi-button remap       | 1 mapping | unlimited |
+| Cloud backup             | local export | + Google Drive sync |
+| Emby integration         | ✅ via plugin | ✅ via plugin |
+| Football overlays        | ✅ via plugin | ✅ via plugin |
+| Oppo player remote       | ✅ via plugin | ✅ via plugin |
+| Ads / Telemetry          | ❌ none | ❌ none |
 
 ## Screenshots
 
