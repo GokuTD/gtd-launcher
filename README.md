@@ -51,14 +51,32 @@ No subscription. No recurring charges. Reinstall and Premium restores from your 
 | Icon packs               | — | ✅ |
 | Multi-button remap       | 1 mapping | unlimited |
 | Cloud backup             | local export | + Google Drive sync |
-| Emby integration         | ✅ via plugin | ✅ via plugin |
-| Football overlays        | ✅ via plugin | ✅ via plugin |
-| Oppo player remote       | ✅ via plugin | ✅ via plugin |
 | Ads / Telemetry          | ❌ none | ❌ none |
+
+## The GTD ecosystem
+
+GTD Launcher is the core product, and it works on its own. Two optional companions extend it for power users:
+
+### 🧩 [GTD Plugin for Emby](https://github.com/GokuTD/gtd-plugin) — Android TV
+
+Adds everything that connects the launcher to your media stack:
+
+- **Dynamic wallpapers** generated from your Emby library (4 free themes + 30 in Premium)
+- **Ambient 4K HDR screensaver** with cinematic nature footage and your own Emby backdrops
+- **Native Android TV channels** populated from Emby — Continue Watching, Latest Movies, Latest Shows, Live TV with EPG and PiP
+- **Football overlays** — live scores, goal notifications, upcoming match cards for your favourite teams
+- **Oppo UDP-203 / 205 remote** — control the disc player from the Shield mando over LAN (TCP / HTTP / NFS)
+- **Samsung soundbar HDMI input switching** — pair the Oppo control with a one-tap source change
+
+Free to install. Premium (€7 one-time, separate from the launcher) opens up the full theme catalog and the custom theme editor.
+
+### 📱 [GTD Setup](https://github.com/GokuTD/gtd-launcher/releases) — phone companion
+
+Pair your phone with the launcher by scanning a QR code shown on the TV setup wizard, then push your Emby login, IP addresses and API keys without typing them with the remote. Permanently free, no IAP.
 
 ## Screenshots
 
-(Coming soon — captures available in [GitHub Releases assets](https://github.com/GokuTD/gtd-launcher/releases) once Play Store listing goes live.)
+8 marketing screenshots in [`screenshots/`](./screenshots) — home, glass menu, theme picker, cards customisation, wallpaper engine, channel detail and the Premium menu. Setup app captures live in [`screenshots-setup/`](./screenshots-setup).
 
 ---
 
