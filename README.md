@@ -1,12 +1,54 @@
+<p align="center">
+  <img src=".assets/feature.png" alt="GTD Launcher" width="100%">
+</p>
+
 # GTD Launcher
 
 A polished, fully customisable Android TV launcher. Native channels, themes, glass UI, focused-card glow, accent colours, per-app icons, multi-button remote remap, cloud backup. **Ad-free. No telemetry. No account.**
 
-[![Available on Google Play](https://img.shields.io/badge/Google_Play-coming_soon-orange.svg)](#)
-[![Privacy Policy](https://img.shields.io/badge/Privacy-Policy-blue.svg)](https://gokutd.github.io/gtd-policy/)
-[![Premium](https://img.shields.io/badge/Premium-€7_one--time-gold.svg)](#premium-features)
+<p align="center">
+  <a href="#"><img alt="Google Play" src="https://img.shields.io/badge/Google_Play-coming_soon-orange.svg"></a>
+  <a href="https://gokutd.github.io/gtd-policy/"><img alt="Privacy Policy" src="https://img.shields.io/badge/Privacy-Policy-blue.svg"></a>
+  <a href="#premium-features"><img alt="Premium" src="https://img.shields.io/badge/Premium-€7_one--time-gold.svg"></a>
+  <a href="https://github.com/GokuTD/gtd-launcher/releases"><img alt="Latest release" src="https://img.shields.io/github/v/release/GokuTD/gtd-launcher?include_prereleases&label=APK"></a>
+</p>
 
 > Built by **GTD TV Studio**. Companion plugin: [GTD Plugin for Emby](https://github.com/GokuTD/gtd-plugin) · Mobile setup helper: [GTD Setup](#mobile-companion).
+
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="screenshots/01_home.png" alt="Home with channels"></td>
+    <td><img src="screenshots/02_menu.png" alt="Glass menu"></td>
+    <td><img src="screenshots/04_themes.png" alt="Themes gallery"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Home with native channels</sub></td>
+    <td align="center"><sub>Glass-style side menu</sub></td>
+    <td align="center"><sub>12 theme presets</sub></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/05_cards.png" alt="Cards customisation"></td>
+    <td><img src="screenshots/06_wallpaper.png" alt="Wallpaper engine"></td>
+    <td><img src="screenshots/03_appearance.png" alt="Appearance settings"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Cards customisation</sub></td>
+    <td align="center"><sub>Wallpaper engine</sub></td>
+    <td align="center"><sub>Appearance overview</sub></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/07_channel_detail.png" alt="Channel detail"></td>
+    <td><img src="screenshots/08_premium.png" alt="Premium menu"></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Channel/category detail</sub></td>
+    <td align="center"><sub>Premium upgrade</sub></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
@@ -74,9 +116,11 @@ Free to install. Premium (€7 one-time, separate from the launcher) opens up th
 
 Pair your phone with the launcher by scanning a QR code shown on the TV setup wizard, then push your Emby login, IP addresses and API keys without typing them with the remote. Permanently free, no IAP.
 
-## Screenshots
+<p align="center">
+  <img src=".assets/feature_setup.png" alt="GTD Setup" width="80%">
+</p>
 
-8 marketing screenshots in [`screenshots/`](./screenshots) — home, glass menu, theme picker, cards customisation, wallpaper engine, channel detail and the Premium menu. Setup app captures live in [`screenshots-setup/`](./screenshots-setup).
+Setup screenshots: [`screenshots-setup/`](./screenshots-setup).
 
 ---
 
