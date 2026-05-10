@@ -66,7 +66,15 @@ Yes (Premium). Pick an `.mp4` / `.webm` (video) or `.gif` (animated) the same wa
 
 ### Icon packs?
 
-Yes (Premium). Install any Android icon pack from Play Store, then Settings → Appearance → Cards → Apply icon pack.
+Yes (Premium). Settings → Appearance → Cards → Apply icon pack.
+
+Caveat — Play Store on Android TV filters out most icon packs (devs flag them as "phone only"). To get one onto your TV:
+
+- **Aurora Store** (sideload from [auroraoss.com](https://auroraoss.com)) — alternative Play Store frontend that doesn't filter by form factor; install any icon pack from there
+- **APKMirror sideload** — search for the pack, download the APK, install via Solid Explorer / `adb install`
+- **F-Droid** — open-source packs like Lawnicons or Delta
+
+Once a pack is installed (via any of the above), it shows up in the Apply icon pack dialog automatically. The launcher uses Android's standard icon-pack contract, so anything that works in Nova / Lawnchair / Action Launcher works here too.
 
 ### Per-app custom icons?
 
