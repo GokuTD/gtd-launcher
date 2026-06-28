@@ -21,32 +21,22 @@ A polished, fully customisable Android TV launcher. Native channels, themes, gla
   <tr>
     <td><img src="screenshots/01_home.png" alt="Home with channels"></td>
     <td><img src="screenshots/02_menu.png" alt="Glass menu"></td>
-    <td><img src="screenshots/04_themes.png" alt="Themes gallery"></td>
+    <td><img src="screenshots/03_appearance.png" alt="Appearance settings"></td>
   </tr>
   <tr>
     <td align="center"><sub>Home with native channels</sub></td>
     <td align="center"><sub>Glass-style side menu</sub></td>
-    <td align="center"><sub>12 theme presets</sub></td>
+    <td align="center"><sub>Appearance &amp; glass customisation</sub></td>
   </tr>
   <tr>
-    <td><img src="screenshots/05_cards.png" alt="Cards customisation"></td>
-    <td><img src="screenshots/06_wallpaper.png" alt="Wallpaper engine"></td>
-    <td><img src="screenshots/03_appearance.png" alt="Appearance settings"></td>
+    <td><img src="screenshots/04_search.png" alt="Universal search"></td>
+    <td><img src="screenshots/05_wallpaper.png" alt="Animated GL wallpaper"></td>
+    <td><img src="screenshots/06_channels.png" alt="Channels and categories"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Cards customisation</sub></td>
-    <td align="center"><sub>Wallpaper engine</sub></td>
-    <td align="center"><sub>Appearance overview</sub></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/07_channel_detail.png" alt="Channel detail"></td>
-    <td><img src="screenshots/08_premium.png" alt="Premium menu"></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Channel/category detail</sub></td>
-    <td align="center"><sub>Premium upgrade</sub></td>
-    <td></td>
+    <td align="center"><sub>Universal search</sub></td>
+    <td align="center"><sub>Animated GL wallpapers</sub></td>
+    <td align="center"><sub>Channels &amp; categories</sub></td>
   </tr>
 </table>
 
