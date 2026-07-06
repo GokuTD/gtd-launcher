@@ -55,6 +55,7 @@ A polished, fully customisable Android TV launcher. Native channels, themes, gla
 - Single-button remote remapping (your first remap is always free)
 - Boot-direct (open at TV power-on)
 - Custom screensaver picker
+- **HDMI/AV input switching** — open a side panel of your TV inputs from a mapped remote button
 - Now Playing badge for currently-playing media
 - 14 fully translated locales (EN, ES, FR, DE, IT, PL, PT, RO, RU, UK, ZH-rCN…)
 
@@ -64,7 +65,7 @@ One-time **€7** unlock that opens up:
 
 - **8 extra premium themes** — Neon Night · Sunset · Forest · Ruby · Amethyst · Rose · Teal · Amber
 - **Premium card glow** — RGB and Neon glow effects on focused cards
-- **Wallpaper engine** — brightness, contrast, saturation, hue, blur, colour filter, multi-image slideshow
+- **Wallpaper engine** — brightness, contrast, saturation, hue, blur, colour filter, multi-image and local-video slideshow
 - **Per-app icons + icon packs** — override any app icon or apply a third-party icon pack
 - **Multi-button remote remap** — map more than one remote button to apps
 - **Cloud backup to Google Drive** — sync settings + auto-restore on reinstall
@@ -77,7 +78,7 @@ No subscription. No recurring charges. Reinstall and Premium restores from your 
 |                          | Free | Premium (€7 one-time) |
 |---|---|---|
 | Themes                   | 4 presets | 12 presets |
-| Custom wallpaper         | static images | + slideshow + adjustments |
+| Custom wallpaper         | static images | + photo/video slideshow + adjustments |
 | Card glow effects        | dynamic / colour | + RGB / Neon |
 | Per-app icons            | — | ✅ |
 | Icon packs               | — | ✅ |
@@ -96,7 +97,7 @@ Adds everything that connects the launcher to your media stack:
 - **Dynamic wallpapers** generated from your Emby library (4 free themes + 30 in Premium)
 - **Ambient 4K HDR screensaver** with cinematic nature footage and your own Emby backdrops
 - **Native Android TV channels** populated from Emby — Continue Watching, Latest Movies, Latest Shows, Live TV with EPG and PiP
-- **Football overlays** — live scores, goal notifications, upcoming match cards for your favourite teams
+- **Football overlays** — live scores and upcoming match cards, for your favourite teams or whole competitions
 - **Oppo UDP-203 / 205 remote** — control the disc player from the Shield mando over LAN (TCP / HTTP / NFS)
 - **Samsung soundbar HDMI input switching** — pair the Oppo control with a one-tap source change
 
