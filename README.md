@@ -103,9 +103,9 @@ Adds everything that connects the launcher to your media stack:
 
 Free to install. Premium (€7 one-time, separate from the launcher) opens up the full theme catalog and the custom theme editor.
 
-### 📱 [GTD Setup](https://github.com/GokuTD/gtd-launcher/releases) — phone companion
+### 📱 GTD Setup — phone companion
 
-Pair your phone with the launcher by scanning a QR code shown on the TV setup wizard, then push your Emby login, IP addresses and API keys without typing them with the remote. Permanently free, no IAP.
+Pair your phone with the launcher by scanning a QR code shown on the TV setup wizard, then push your Emby login, IP addresses and API keys without typing them with the remote. Permanently free, no IAP. Coming soon to Google Play.
 
 <p align="center">
   <img src=".assets/feature_setup.png" alt="GTD Setup" width="80%">
@@ -142,7 +142,7 @@ The sideloaded APK runs in **free mode** until you purchase Premium via Google P
 
 ### Mobile companion
 
-For easier setup (Emby login, API keys, IP addresses) install **GTD Setup** on your phone — paired by QR code from the launcher's setup wizard. Download the latest signed APK from [Releases](https://github.com/GokuTD/gtd-launcher/releases) under "GTD Setup".
+For easier setup (Emby login, API keys, IP addresses) install **GTD Setup** on your phone — paired by QR code from the launcher's setup wizard. Free, no IAP — coming soon to Google Play.
 
 ---
 
